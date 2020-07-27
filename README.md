@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="https://khast3x.club/assets/demo/haunter_alt.png">
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/L8BKb6C.png">
-</p>
-
-
+![](https://khast3x.club/assets/demo/haunter_alt.png)
+![](https://github-readme-stats.vercel.app/api?username=khast3x&show_icons=true)
 
 <!--
 **khast3x/khast3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
