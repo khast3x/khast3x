@@ -1,4 +1,7 @@
-![](https://khast3x.club/assets/demo/haunter_alt.png)
+![](https://khast3x.club/assets/demo/haunter_alt.png)  
+
+:star: Metrics  
+
 ![](https://github-readme-stats.vercel.app/api?username=khast3x&show_icons=true)
 
 <!--
