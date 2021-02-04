@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://khast3x.club/assets/demo/haunter_alt.png">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khast3x&show_icons=true">
 </p>
 
